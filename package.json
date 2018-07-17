@@ -1,7 +1,11 @@
 {
 	"name": "theme-toxin",
 	"version": "0.1.0",
-	"publisher": "vscode",
+	"publisher": "neta540",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/neta540/vscode-theme-toxin"
+	},
 	"engines": {
 		"vscode": "*"
 	},
