@@ -1,0 +1,17 @@
+{
+	"name": "theme-toxin",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Toxin",
+				"uiTheme": "vs-dark",
+				"path": "./Toxin.json"
+			}
+		]
+	}
+}
